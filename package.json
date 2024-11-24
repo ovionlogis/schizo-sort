@@ -1,0 +1,25 @@
+{
+  "name": "schizo-sort",
+  "version": "1.0.1",
+  "description": "A function that ignores input and returns a imaginary list of numbers.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "sort",
+    "algorithm",
+    "schizo"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovionlogis/schizo-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovionlogis/schizo-sort/issues"
+  },
+  "homepage": "https://github.com/ovionlogis/schizo-sort#readme"
+}
